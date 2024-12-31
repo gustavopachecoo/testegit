@@ -18,7 +18,7 @@ header {
     background-color: rgb(76, 76, 213);
 }
 
-p{
+header p{
     color: white;
     font-size: larger;
 }
