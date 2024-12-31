@@ -1,3 +1,5 @@
 Teste de uso - Aprendendo Git e GitHub
 
-Primeira alteração.
+Segunda alteração: Nova Branch
+-Iniciando o Header da página
+-Criação do arquivo CSS
